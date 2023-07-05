@@ -13,3 +13,5 @@ Use TestNG and add before and after class methods.
 Assignment 21 (POM patterns):
 
  -  Do the same task as for Assignment20, however use the new patterns (POM) that we did in the lecture. It is necessary to create three separate projects and apply a different pattern in each one.
+
+NOTE: The path to chromedriver.exe needs to be set according to the path on the user's computer for this code to work properly. It is located in the BaseTest class, in the @BeforeClass method.
